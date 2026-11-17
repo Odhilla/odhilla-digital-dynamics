@@ -6,17 +6,16 @@
 
 ## Services
 - 🌐 Web Application Development
-- ⚙️ API Design and Integration
+- ⚡ API Design and Integration
 - ☁️ Cloud and DevOps
 - 🗄️ Database Architecture
 - 📱 Mobile-First Solutions
 - 🔐 Security and Performance
 
 ## About
-Founded by **Hillary Odinga** — Full Stack Developer
-with 4+ years experience building digital products.
+Founded by **Hillary Odinga** — Full Stack Developer building digital products.
 
 ## Contact
-📧 odingahillary148@gmail.com
-🐙 github.com/Odhilla
+📧 odhingahillary148@gmail.com
+🌐 github.com/Odhilla
 📍 Nairobi, Kenya — Serving clients worldwide
